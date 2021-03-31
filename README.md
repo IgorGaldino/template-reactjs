@@ -7,7 +7,6 @@ Este repositório é um template para uma aplicação em React JS. Existem algun
 * React;
 * JSX;
 * React Components;
-* React Hooks;
 * Yarn
 * Eslint
 * Prettier
