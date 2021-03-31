@@ -7,7 +7,7 @@ const ComParametro = (props) => {
     <div>
       <h2>{titulo}</h2>
       <p>
-        <strong>{aluno}</strong>
+        <strong>{aluno} </strong>
         tem nota
         <strong> {nota} </strong>e está
         <strong> {status}</strong>!
