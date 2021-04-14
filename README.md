@@ -2,14 +2,19 @@
 
 Este repositório é um template para uma aplicação em React JS. Existem alguns componentes de layout já criados.
 
+[Demo](https://igorgaldino.github.io/template-reactjs/)
+
 ## Conceitos utilizados
 
 * React;
 * JSX;
 * React Components;
-* Yarn
-* Eslint
-* Prettier
+* React Router;
+* Bootstrap;
+* Reactstrap;
+* Yarn;
+* Eslint;
+* Prettier;
 
 ## Execução dos scripts
 
