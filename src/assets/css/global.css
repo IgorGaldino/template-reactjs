@@ -1,0 +1,9 @@
+/* System variables */
+:root {
+  --dark-green: #224d15;
+  --green: #2c8611;
+  --light-green: #59a044;
+  --light: #a1d392;
+  --sidebar-header: var(--dark-green);
+  --sidebar-body: var(--green);
+}
